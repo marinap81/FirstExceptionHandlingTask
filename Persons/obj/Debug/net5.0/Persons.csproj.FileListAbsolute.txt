@@ -1,0 +1,12 @@
+C:\Workspaces-csUnitTesting\CTEST\Persons\bin\Debug\net5.0\Persons.deps.json
+C:\Workspaces-csUnitTesting\CTEST\Persons\bin\Debug\net5.0\Persons.dll
+C:\Workspaces-csUnitTesting\CTEST\Persons\bin\Debug\net5.0\ref\Persons.dll
+C:\Workspaces-csUnitTesting\CTEST\Persons\bin\Debug\net5.0\Persons.pdb
+C:\Workspaces-csUnitTesting\CTEST\Persons\obj\Debug\net5.0\Persons.csprojAssemblyReference.cache
+C:\Workspaces-csUnitTesting\CTEST\Persons\obj\Debug\net5.0\Persons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces-csUnitTesting\CTEST\Persons\obj\Debug\net5.0\Persons.AssemblyInfoInputs.cache
+C:\Workspaces-csUnitTesting\CTEST\Persons\obj\Debug\net5.0\Persons.AssemblyInfo.cs
+C:\Workspaces-csUnitTesting\CTEST\Persons\obj\Debug\net5.0\Persons.csproj.CoreCompileInputs.cache
+C:\Workspaces-csUnitTesting\CTEST\Persons\obj\Debug\net5.0\Persons.dll
+C:\Workspaces-csUnitTesting\CTEST\Persons\obj\Debug\net5.0\ref\Persons.dll
+C:\Workspaces-csUnitTesting\CTEST\Persons\obj\Debug\net5.0\Persons.pdb

@@ -1,0 +1,17 @@
+C:\Workspaces-csUnitTesting\CTEST\Roooms\bin\Debug\net5.0\Roooms.deps.json
+C:\Workspaces-csUnitTesting\CTEST\Roooms\bin\Debug\net5.0\Roooms.dll
+C:\Workspaces-csUnitTesting\CTEST\Roooms\bin\Debug\net5.0\ref\Roooms.dll
+C:\Workspaces-csUnitTesting\CTEST\Roooms\bin\Debug\net5.0\Roooms.pdb
+C:\Workspaces-csUnitTesting\CTEST\Roooms\obj\Debug\net5.0\Roooms.csprojAssemblyReference.cache
+C:\Workspaces-csUnitTesting\CTEST\Roooms\obj\Debug\net5.0\Roooms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces-csUnitTesting\CTEST\Roooms\obj\Debug\net5.0\Roooms.AssemblyInfoInputs.cache
+C:\Workspaces-csUnitTesting\CTEST\Roooms\obj\Debug\net5.0\Roooms.AssemblyInfo.cs
+C:\Workspaces-csUnitTesting\CTEST\Roooms\obj\Debug\net5.0\Roooms.csproj.CoreCompileInputs.cache
+C:\Workspaces-csUnitTesting\CTEST\Roooms\obj\Debug\net5.0\Roooms.dll
+C:\Workspaces-csUnitTesting\CTEST\Roooms\obj\Debug\net5.0\ref\Roooms.dll
+C:\Workspaces-csUnitTesting\CTEST\Roooms\obj\Debug\net5.0\Roooms.pdb
+C:\Workspaces-csUnitTesting\CTEST\Roooms\bin\Debug\net5.0\Persons.dll
+C:\Workspaces-csUnitTesting\CTEST\Roooms\bin\Debug\net5.0\Records.dll
+C:\Workspaces-csUnitTesting\CTEST\Roooms\bin\Debug\net5.0\Records.pdb
+C:\Workspaces-csUnitTesting\CTEST\Roooms\bin\Debug\net5.0\Persons.pdb
+C:\Workspaces-csUnitTesting\CTEST\Roooms\obj\Debug\net5.0\Roooms.csproj.CopyComplete
